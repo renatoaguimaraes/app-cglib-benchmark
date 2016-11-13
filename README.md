@@ -31,6 +31,22 @@ for (int i = 0; i < numberOfInstances; i++)
 }
 ```
 
+### Dependencies
+
+```xml
+<dependency>
+  <groupId>cglib</groupId>
+  <artifactId>cglib-nodep</artifactId>
+  <version>2.1_3</version>
+</dependency>
+
+<dependency>
+  <groupId>cglib</groupId>
+  <artifactId>cglib-nodep</artifactId>
+  <version>2.1_3</version>
+</dependency>
+```
+
 ### Results
 
 | Version       | Time          | Number of Objects  |
