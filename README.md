@@ -39,11 +39,11 @@ for (int i = 0; i < numberOfInstances; i++)
   <artifactId>cglib-nodep</artifactId>
   <version>2.1_3</version>
 </dependency>
-
+...
 <dependency>
   <groupId>cglib</groupId>
   <artifactId>cglib-nodep</artifactId>
-  <version>2.1_3</version>
+  <version>3.2.4</version>
 </dependency>
 ```
 
