@@ -1,6 +1,6 @@
 # cglib-test
 
-Benchmarking cglib proxy creation, cglib versions 2.1_3 and 3.2.4.
+Benchmarking cglib proxy creation, versions 2.1_3 and 3.2.4.
 
 ### Environment
 
