@@ -40,19 +40,19 @@ for (int i = 0; i < numberOfInstances; i++)
 | 2.1_3         |  3 min 39 sec.|   100.000.000      |
 | 3.2.4         |        42 sec.|   100.000.000      |
 
-2.1_3 - 1.000.000.000
+Samle 2.1_3 - 1.000.000.000 objects
 
 <img src="cglib-2.1_3-1.png" width="960">
 
-2.1_3 - 100.000.000
+Samle 2.1_3 - 100.000.000 objects
 
 <img src="cglib-2.1_3-2.png" width="960">
 
-3.2.4 - 1.000.000.000
+Samle 3.2.4 - 1.000.000.000 objects
 
 <img src="cglib-3.2.4-1.png" width="960">
 
-3.2.4 - 100.000.000
+Samle 3.2.4 - 100.000.000 objects
 
 <img src="cglib-3.2.4-2.png" width="960">
 
